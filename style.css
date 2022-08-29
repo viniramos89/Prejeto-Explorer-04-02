@@ -103,8 +103,8 @@ body {
     color: white;
   }
   #padlock {
-   position: auto;
-   margin-left: 20px;
-   margin-bottom: 20px;
+   position: fixed;
+   left: 20px;
+   bottom: 20px;
 
   }
